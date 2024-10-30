@@ -1,0 +1,574 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bot for Telegram on WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-06 09:31+0000\n"
+"PO-Revision-Date: 2022-01-05 01:58+0000\n"
+"Last-Translator: Daniel Cambria\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt-BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: bot-for-telegram-on-woocommerce"
+
+#: nuxy_settings/main.php:278
+msgid "\"Price:\" text"
+msgstr "Texto \"Preço:\""
+
+#: nuxy_settings/main.php:105
+msgid ""
+"<a href=\"https://developers.google."
+"com/maps/documentation/geocoding/overview\">Provide Google Maps API key</a> "
+"with enabled geocoding API and configured billing account"
+msgstr ""
+"<a href=\"https://developers.google."
+"com/maps/documentation/geocoding/overview\">Prover a chave API do Google "
+"Maps</a> com API de geocodificação habilitada e conta de cobrança configurada"
+
+#: nuxy_settings/main.php:92
+msgid "Activate API URL"
+msgstr "Ativar a URL da API"
+
+#: nuxy_settings/main.php:250 includes/BFTOW_Telegram.php:728 
+#: includes/BFTOW_Telegram.php:862
+msgid "Add to Cart"
+msgstr "Adicionar ao carrinho"
+
+#: nuxy_settings/main.php:248
+msgid "Add to cart button text"
+msgstr "Adicionar ao carrinho texto do botão"
+
+#: nuxy_settings/main.php:240 includes/BFTOW_Telegram.php:177
+msgid "added to cart"
+msgstr "adicionado ao carrinho"
+
+#: nuxy_settings/main.php:238
+msgid "Added to cart text"
+msgstr "Adicionado ao texto do carrinho"
+
+#: includes/BFTOW_Orders.php:382
+msgid "Address from location:"
+msgstr "Endereço a partir do local:"
+
+#: includes/BFTOW_Orders.php:379
+msgid "Address:"
+msgstr "Endereço:"
+
+#: nuxy_settings/main.php:225 nuxy_settings/main.php:358 
+#: includes/BFTOW_Telegram.php:459
+msgid "All products"
+msgstr "Todos os produtos"
+
+#: nuxy_settings/main.php:223
+msgid "All products text"
+msgstr "Texto de todos os produtos"
+
+#: nuxy_settings/main.php:80
+msgid "BOT API Settings"
+msgstr "Configurações BOT API"
+
+#. Name of the plugin
+msgid "Bot for Telegram on WooCommerce"
+msgstr "Bot for Telegram para WooCommerce"
+
+#. Description of the plugin
+msgid ""
+"Bot for Telegram on WooCommerce is a plugin that allows you to create a "
+"telegram online store based on your website with WooCommerce."
+msgstr ""
+"Bot for Telegram on WooCommerce é um plugin que lhe permite criar uma loja "
+"de telegramas online baseada em seu site com o WooCommerce."
+
+#: nuxy_settings/main.php:324
+msgid "Button text"
+msgstr "Texto dos botões"
+
+#: nuxy_settings/main.php:255 includes/BFTOW_Telegram.php:51
+msgid "Buy Now"
+msgstr "Comprar agora"
+
+#: nuxy_settings/main.php:253
+msgid "Buy Now button text"
+msgstr "Texto do botão Buy Now"
+
+#: nuxy_settings/main.php:69
+msgid "by Guru Team"
+msgstr "por Guru Team"
+
+#: nuxy_settings/main.php:265 includes/BFTOW_Telegram.php:46 
+#: includes/BFTOW_Telegram.php:916
+msgid "Cart"
+msgstr "Carrinho"
+
+#: nuxy_settings/main.php:245 includes/BFTOW_Orders.php:311 
+#: includes/BFTOW_Telegram.php:425
+msgid "Cart empty"
+msgstr "Carrinho vazio"
+
+#: nuxy_settings/main.php:243
+msgid "Cart empty Message"
+msgstr "Carrinho vazio Mensagem"
+
+#: nuxy_settings/main.php:157
+msgid "Categories per row"
+msgstr "Categorias por fileira"
+
+#: nuxy_settings/main.php:185
+msgid "Category"
+msgstr "Categoria"
+
+#: nuxy_settings/main.php:180
+msgid "Category row"
+msgstr "Fila de categorias"
+
+#: nuxy_settings/main.php:270 includes/BFTOW_Orders.php:271 
+#: includes/BFTOW_Orders.php:281 includes/BFTOW_Orders.php:288
+msgid "Checkout"
+msgstr "Checkout"
+
+#: includes/BFTOW_Telegram.php:879
+msgid "Clear variations"
+msgstr "Claras variações"
+
+#: nuxy_settings/main.php:328
+msgid "Command"
+msgstr "Comando"
+
+#: nuxy_settings/main.php:320
+msgid "Custom Button"
+msgstr "Botão Personalizado"
+
+#: includes/BFTOW_Orders.php:384
+msgid "Customer Details"
+msgstr "Detalhes do cliente"
+
+#: includes/BFTOW_Orders.php:393
+msgid "Customer provided note:"
+msgstr "Nota fornecida pelo cliente:"
+
+#: nuxy_settings/main.php:174
+msgid "Disable checkout"
+msgstr "Desativar o checkout"
+
+#: nuxy_settings/main.php:176
+msgid ""
+"Disable checkout on the site, the order will be created automatically, and "
+"the administrator will receive a notification about it"
+msgstr ""
+"Desativar o checkout no site, o pedido será criado automaticamente, e o "
+"administrador receberá uma notificação sobre o mesmo"
+
+#: nuxy_settings/main.php:137
+msgid "Disable quantity input"
+msgstr "Desabilitar a entrada de quantidades"
+
+#: nuxy_settings/main.php:123
+msgid "Enable fast checkout"
+msgstr "Habilitar checkout rápido"
+
+#: nuxy_settings/main.php:198 nuxy_settings/main.php:200
+msgid "Enable Search"
+msgstr "Habilitar a busca"
+
+#: nuxy_settings/main.php:430
+msgid "Enter a search word"
+msgstr "Digite uma palavra de busca"
+
+#: includes/notices/install_woocommerce.php:4
+msgid "Free Download"
+msgstr "Download gratuito"
+
+#: nuxy_settings/main.php:308
+msgid "Get Private Channel ID for Notifications"
+msgstr "Obter ID do Canal Privado para Notificações"
+
+#: nuxy_settings/main.php:102
+msgid "Google Maps API key"
+msgstr "Chave API do Google Maps"
+
+#. Author of the plugin
+msgid "guru-team"
+msgstr "guru-team"
+
+#: nuxy_settings/main.php:213
+msgid "Hello Message"
+msgstr "Mensagem de Alô"
+
+#: nuxy_settings/main.php:215 includes/BFTOW_Telegram.php:47
+msgid "Hello! Welcome to WooCommerce Telegram Store"
+msgstr "Olá! Bem-vindo à WooCommerce Telegram Store"
+
+#: nuxy_settings/main.php:127
+msgid "Hide cart button"
+msgstr "Esconder o botão do carrinho"
+
+#. Author URI of the plugin
+msgid "https://wp-guruteam.com/"
+msgstr "https://wp-guruteam.com/"
+
+#. URI of the plugin
+msgid "https://wp-guruteam.com/woocommerce-telegram/"
+msgstr "https://wp-guruteam.com/woocommerce-telegram/"
+
+#: nuxy_settings/main.php:295 includes/BFTOW_Telegram.php:52
+msgid "Information updated"
+msgstr "Informações atualizadas"
+
+#: nuxy_settings/main.php:293
+msgid "Information updated message"
+msgstr "Mensagem de informação atualizada"
+
+#: nuxy_settings/main.php:110
+msgid "Interface"
+msgstr "Interface"
+
+#: nuxy_settings/main.php:315
+msgid "Keyboard"
+msgstr "Teclado"
+
+#: nuxy_settings/main.php:400
+msgid "Main menu"
+msgstr "Menu principal"
+
+#: nuxy_settings/main.php:397
+msgid "Main menu button text"
+msgstr "Texto do botão do menu principal"
+
+#: nuxy_settings/main.php:333
+msgid "Message"
+msgstr "Mensagem"
+
+#: nuxy_settings/main.php:427
+msgid "Message after search button"
+msgstr "Mensagem após botão de busca"
+
+#: nuxy_settings/main.php:337
+msgid "Message Image"
+msgstr "Imagem da mensagem"
+
+#: nuxy_settings/main.php:205
+msgid "Messages"
+msgstr "Mensagens"
+
+#: nuxy_settings/main.php:376
+msgid "My account"
+msgstr "Minha conta"
+
+#: nuxy_settings/main.php:373
+msgid "My account button text"
+msgstr "Texto do botão Minha conta"
+
+#: nuxy_settings/main.php:415
+msgid "My account message"
+msgstr "Minha mensagem de conta"
+
+#: nuxy_settings/main.php:418
+msgid "My account:"
+msgstr "Minha conta:"
+
+#: nuxy_settings/main.php:382
+msgid "My orders"
+msgstr "Minhas ordens"
+
+#: includes/BFTOW_Orders.php:329
+msgid "New Order:"
+msgstr "Novo pedido:"
+
+#: nuxy_settings/main.php:406
+msgid "No orders found"
+msgstr "Nenhuma ordem encontrada"
+
+#: nuxy_settings/main.php:403
+msgid "No orders found message"
+msgstr "Nenhuma mensagem de ordem encontrada"
+
+#: nuxy_settings/main.php:433
+msgid "Not found message"
+msgstr "Mensagem não encontrada"
+
+#: nuxy_settings/main.php:305
+msgid "Notification Settings"
+msgstr "Configurações de Notificação"
+
+#: nuxy_settings/main.php:168
+msgid "Notify when user is created"
+msgstr "Notificar quando o usuário é criado"
+
+#: nuxy_settings/main.php:329
+msgid "Optional. Enter telegram command. e.g. /faq"
+msgstr "Opcional. Digite o comando do telegrama. e.g. /faq"
+
+#: includes/BFTOW_Orders.php:331
+msgid "Order"
+msgstr "Ordem"
+
+#: includes/BFTOW_WooCommerce.php:179
+#, php-format
+msgid "Order #%s status changed to %s."
+msgstr "Ordem #%s status mudou para %s."
+
+#: nuxy_settings/main.php:379
+msgid "Order Button text"
+msgstr "Texto do botão de ordem"
+
+#: includes/BFTOW_Orders.php:335
+msgid "Order Date:"
+msgstr "Data do pedido:"
+
+#: includes/BFTOW_Orders.php:337
+msgid "Order Details"
+msgstr "Detalhes do pedido"
+
+#: includes/BFTOW_Orders.php:336
+msgid "Order Total:"
+msgstr "Total do pedido:"
+
+#: includes/BFTOW_Orders.php:334
+msgid "Payment Method:"
+msgstr "Forma de pagamento:"
+
+#: includes/BFTOW_Orders.php:387
+msgid "Phone number:"
+msgstr "Número de telefone:"
+
+#: includes/notices/install_woocommerce.php:3
+msgid "Please install Woocommerce in order to Telegram addon work as intended"
+msgstr ""
+"Por favor, instale o Woocommerce para que o telegrama funcione como previsto"
+
+#: nuxy_settings/main.php:280 includes/BFTOW_Telegram.php:57
+msgid "Price:"
+msgstr "Preço:"
+
+#: nuxy_settings/main.php:285 includes/BFTOW_Telegram.php:59 
+#: includes/BFTOW_Telegram.php:925
+msgid "Proceed to Checkout"
+msgstr "Proceder ao Checkout"
+
+#: includes/BFTOW_Telegram.php:187
+msgid "Product not Added"
+msgstr "Produto não adicionado"
+
+#: nuxy_settings/main.php:230
+msgid "Product not added"
+msgstr "Produto não adicionado"
+
+#: nuxy_settings/main.php:228
+msgid "Product not added text"
+msgstr "Produto texto não adicionado"
+
+#: nuxy_settings/main.php:436
+msgid "Products not found"
+msgstr "Produtos não encontrados"
+
+#: nuxy_settings/main.php:97
+msgid "Proxy server"
+msgstr "Servidor proxy"
+
+#: includes/notices/settings.php:52
+msgid "Read docs"
+msgstr "Leia a documentação"
+
+#: nuxy_settings/main.php:290 includes/BFTOW_Orders.php:160 
+#: includes/BFTOW_Orders.php:221
+msgid "Remove"
+msgstr "Remover"
+
+#: nuxy_settings/main.php:117
+msgid "Request location"
+msgstr "Solicitar localização"
+
+#: nuxy_settings/main.php:113
+msgid "Request phone number"
+msgstr "Solicitar número de telefone"
+
+#: includes/scripts_styles.php:11
+msgid "REST API Link Activated"
+msgstr "REST API Link Ativado"
+
+#: includes/scripts_styles.php:12
+msgid "REST API Link Deactivated"
+msgstr "REST API Link Desativado"
+
+#: nuxy_settings/main.php:94
+msgid "Save BOT Token first"
+msgstr "Salvar primeiro o Token do BOT"
+
+#: nuxy_settings/main.php:424
+msgid "Search"
+msgstr "Busca"
+
+#: nuxy_settings/main.php:421
+msgid "Search Button Text"
+msgstr "Texto do botão de busca"
+
+#: nuxy_settings/main.php:439
+msgid "Search result button text"
+msgstr "Texto do botão de resultado de pesquisa"
+
+#: nuxy_settings/main.php:190
+msgid "Select category"
+msgstr "Selecione a categoria"
+
+#: nuxy_settings/main.php:218
+msgid "Select category text"
+msgstr "Selecione o texto da categoria"
+
+#: nuxy_settings/main.php:220 includes/BFTOW_Telegram.php:408
+msgid "Select category:"
+msgstr "Selecione a categoria:"
+
+#: includes/BFTOW_Telegram.php:776
+msgid "Select variation steps: "
+msgstr "Selecione as etapas de variação"
+
+#: includes/BFTOW_Telegram.php:60
+msgid "Send Location"
+msgstr "Enviar localização"
+
+#: nuxy_settings/main.php:394
+msgid "Send location"
+msgstr "Enviar localização"
+
+#: nuxy_settings/main.php:391
+msgid "Send location button text"
+msgstr "Enviar texto do botão de localização"
+
+#: nuxy_settings/main.php:89
+msgid ""
+"Set if you want user to get back to Telegram after successful checkout. "
+"(Without \"@\")"
+msgstr ""
+"Definido se você quiser que o usuário volte ao Telegrama após o checkout bem "
+"sucedido. (Sem \"@\")"
+
+#: nuxy_settings/main.php:208
+msgid "Share number Message"
+msgstr "Mensagem de Compartilhar Número"
+
+#: nuxy_settings/main.php:210 includes/BFTOW_Telegram.php:939 
+#: includes/BFTOW_Telegram.php:1026
+msgid "Share phone number"
+msgstr "Compartilhe o número de telefone"
+
+#: nuxy_settings/main.php:260 includes/BFTOW_Telegram.php:45 
+#: includes/BFTOW_Telegram.php:910
+msgid "Shop"
+msgstr "Loja"
+
+#: nuxy_settings/main.php:132
+msgid "Show checkout button"
+msgstr "Mostrar botão de checkout"
+
+#: nuxy_settings/main.php:153
+msgid "Show only parent categories"
+msgstr "Mostrar somente as categorias dos pais"
+
+#: nuxy_settings/main.php:145
+msgid "Show out of stock products"
+msgstr "Mostrar produtos fora de estoque"
+
+#: nuxy_settings/main.php:141
+msgid "Show product short description"
+msgstr "Mostrar breve descrição do produto"
+
+#: nuxy_settings/main.php:442
+msgid "Show results"
+msgstr "Mostrar resultados"
+
+#: nuxy_settings/main.php:149
+msgid "Show SKU"
+msgstr "Mostrar SKU"
+
+#: nuxy_settings/main.php:300 includes/BFTOW_Products.php:11 
+#: includes/BFTOW_Telegram.php:56
+msgid "SKU"
+msgstr "SKU"
+
+#: nuxy_settings/main.php:298
+msgid "SKU Message"
+msgstr "Mensagem SKU"
+
+#: includes/notices/settings.php:47
+msgid "Take me to settings"
+msgstr "Leve-me para as configurações"
+
+#: nuxy_settings/main.php:87
+msgid "Telegram Bot Name"
+msgstr "Nome do Bot de Telegram"
+
+#: nuxy_settings/main.php:68
+msgid "Telegram Bot Settings"
+msgstr "Ajustes do Bot do Telegram"
+
+#: nuxy_settings/main.php:83
+msgid "Telegram Bot Token"
+msgstr "Token Telegram Bot"
+
+#: nuxy_settings/main.php:263
+msgid "Title Button Cart"
+msgstr "Título de Botão - Carrinho"
+
+#: nuxy_settings/main.php:268
+msgid "Title Button Checkout"
+msgstr "Título de Botão - Checkout"
+
+#: nuxy_settings/main.php:283
+msgid "Title Button Proceed To Checkout"
+msgstr "Título de Botão - Prosseguir para o Checkout"
+
+#: nuxy_settings/main.php:288
+msgid "Title Button Remove"
+msgstr "Título de Botão - Remover"
+
+#: nuxy_settings/main.php:258
+msgid "Title Button Shop"
+msgstr "Título de Botão - Loja"
+
+#: nuxy_settings/main.php:273
+msgid "Total button text"
+msgstr "Título de Botão - total"
+
+#: nuxy_settings/main.php:275 includes/BFTOW_Orders.php:257
+msgid "Total:"
+msgstr "Total:"
+
+#: nuxy_settings/main.php:388
+msgid "Update phone"
+msgstr "Atualizar telefone"
+
+#: nuxy_settings/main.php:385
+msgid "Update phone button text"
+msgstr "Atualizar o texto do botão do telefone"
+
+#: includes/BFTOW_Orders.php:390
+msgid "User email:"
+msgstr "E-mail do usuário:"
+
+#: includes/notices/settings.php:43
+msgid "You have not configured the Bot for Telegram on WooCommerce plugin yet"
+msgstr "Você ainda não configurou o plug-in Bot for Telegram on WooCommerce"
+
+#: nuxy_settings/main.php:235 includes/BFTOW_Orders.php:298
+msgid "Your cart"
+msgstr "Seu carrinho"
+
+#: nuxy_settings/main.php:233
+msgid "Your cart text"
+msgstr "Seu carrinho de texto"
+
+#: nuxy_settings/main.php:412
+msgid "Your orders"
+msgstr "Seus pedidos"
+
+#: nuxy_settings/main.php:409
+msgid "Your orders message"
+msgstr "Sua mensagem de pedido"
+
+#: includes/notices/settings.php:58
+msgid "YouTube tutorial"
+msgstr "Tutorial do YouTube"

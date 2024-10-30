@@ -1,0 +1,572 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bot for Telegram on WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-01 07:12+0000\n"
+"PO-Revision-Date: 2021-11-06 09:41+0000\n"
+"Language-Team: Persian\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.1\n"
+"X-Domain: bot-for-telegram-on-woocommerce\n"
+"Last-Translator: \n"
+"Language: fa_IR"
+
+#: nuxy_settings/main.php:278
+msgid "\"Price:\" text"
+msgstr "\"قیمت:\" متن"
+
+#: nuxy_settings/main.php:105
+msgid ""
+"<a href=\"https://developers.google."
+"com/maps/documentation/geocoding/overview\">Provide Google Maps API key</a> "
+"with enabled geocoding API and configured billing account"
+msgstr ""
+
+#: nuxy_settings/main.php:92
+msgid "Activate API URL"
+msgstr "فعال سازی (API URL)"
+
+#: nuxy_settings/main.php:250 includes/BFTOW_Telegram.php:728
+#: includes/BFTOW_Telegram.php:862
+msgid "Add to Cart"
+msgstr "اضافه کردن به سبد خرید"
+
+#: nuxy_settings/main.php:248
+msgid "Add to cart button text"
+msgstr "متن دکمه افزودن به سبد خرید"
+
+#: nuxy_settings/main.php:240 includes/BFTOW_Telegram.php:177
+msgid "added to cart"
+msgstr "به سبد خرید اضافه شد"
+
+#: nuxy_settings/main.php:238
+msgid "Added to cart text"
+msgstr "متن به سبد خرید اضافه شد"
+
+#: includes/BFTOW_Orders.php:382
+msgid "Address from location:"
+msgstr ""
+
+#: includes/BFTOW_Orders.php:379
+msgid "Address:"
+msgstr "آدرس:"
+
+#: nuxy_settings/main.php:225 nuxy_settings/main.php:358
+#: includes/BFTOW_Telegram.php:459
+msgid "All products"
+msgstr "تمام محصولات"
+
+#: nuxy_settings/main.php:223
+msgid "All products text"
+msgstr "متن تمام محصولات"
+
+#: nuxy_settings/main.php:80
+msgid "BOT API Settings"
+msgstr "تنظیمات API ربات"
+
+#. Name of the plugin
+msgid "Bot for Telegram on WooCommerce"
+msgstr "ربات فروشگاهی تلگرام بر پایه ووکامرس"
+
+#. Description of the plugin
+msgid ""
+"Bot for Telegram on WooCommerce is a plugin that allows you to create a "
+"telegram online store based on your website with WooCommerce."
+msgstr ""
+"ربات فروشگاهی تلگرام بر پایه ووکامرس افزونه ای است که به شما امکان می دهد تا "
+"یک فروشگاه آنلاین تلگرامی بر پایه فروشگاه ووکامرسی خود ایجاد نمایید."
+
+#: nuxy_settings/main.php:324
+msgid "Button text"
+msgstr "متن دکمه"
+
+#: nuxy_settings/main.php:255 includes/BFTOW_Telegram.php:51
+msgid "Buy Now"
+msgstr "هم اکنون خریداری کنید"
+
+#: nuxy_settings/main.php:253
+msgid "Buy Now button text"
+msgstr "متن دکمه هم اکنون خریداری کنید"
+
+#: nuxy_settings/main.php:69
+msgid "by Guru Team"
+msgstr ""
+
+#: nuxy_settings/main.php:265 includes/BFTOW_Telegram.php:46
+#: includes/BFTOW_Telegram.php:916
+msgid "Cart"
+msgstr "سبد خرید"
+
+#: nuxy_settings/main.php:245 includes/BFTOW_Orders.php:311
+#: includes/BFTOW_Telegram.php:425
+msgid "Cart empty"
+msgstr "سبد خرید خالی است"
+
+#: nuxy_settings/main.php:243
+msgid "Cart empty Message"
+msgstr "پیام برای سبد خرید خالی"
+
+#: nuxy_settings/main.php:157
+msgid "Categories per row"
+msgstr "دسته‌بندی‌ها در هر ردیف"
+
+#: nuxy_settings/main.php:185
+msgid "Category"
+msgstr "دسته بندی"
+
+#: nuxy_settings/main.php:180
+msgid "Category row"
+msgstr "ردیف دسته‌بندی"
+
+#: nuxy_settings/main.php:270 includes/BFTOW_Orders.php:271
+#: includes/BFTOW_Orders.php:281 includes/BFTOW_Orders.php:288
+msgid "Checkout"
+msgstr "تسویه حساب"
+
+#: includes/BFTOW_Telegram.php:879
+msgid "Clear variations"
+msgstr "پاک کردن تغییرات"
+
+#: nuxy_settings/main.php:328
+msgid "Command"
+msgstr "فرمان"
+
+#: nuxy_settings/main.php:320
+msgid "Custom Button"
+msgstr "دکمه سفارشی"
+
+#: includes/BFTOW_Orders.php:384
+msgid "Customer Details"
+msgstr "اطلاعات مشتری"
+
+#: includes/BFTOW_Orders.php:393
+msgid "Customer provided note:"
+msgstr "یادداشت ارائه شده توسط مشتری"
+
+#: nuxy_settings/main.php:174
+msgid "Disable checkout"
+msgstr "غیرفعال کردن تسویه حساب"
+
+#: nuxy_settings/main.php:176
+msgid ""
+"Disable checkout on the site, the order will be created automatically, and "
+"the administrator will receive a notification about it"
+msgstr ""
+"اگر تسویه حساب (پرداخت) را در سایت غیر فعال نمایید، در اینصورت سفارش بصورت "
+"خودکار ایجاد می‌گردد و مدیر اعلانی برای آن دریافت خواهد نمود."
+
+#: nuxy_settings/main.php:137
+msgid "Disable quantity input"
+msgstr "غیر فعال‌سازی ورود تعداد"
+
+#: nuxy_settings/main.php:123
+msgid "Enable fast checkout"
+msgstr "فعال‌سازی تسویه حساب (پرداخت) سریع"
+
+#: nuxy_settings/main.php:198 nuxy_settings/main.php:200
+msgid "Enable Search"
+msgstr "فعال‌سازی جستجو"
+
+#: nuxy_settings/main.php:430
+msgid "Enter a search word"
+msgstr "وارد نمودن کلمه برای جستجو"
+
+#: includes/notices/install_woocommerce.php:4
+msgid "Free Download"
+msgstr "دانلود رایگان"
+
+#: nuxy_settings/main.php:308
+msgid "Get Private Channel ID for Notifications"
+msgstr "دریافت آی دی کانال خصوصی برای اعلانات"
+
+#: nuxy_settings/main.php:102
+msgid "Google Maps API key"
+msgstr "کلید API گوگل مپ"
+
+#. Author of the plugin
+msgid "guru-team"
+msgstr "guru-team"
+
+#: nuxy_settings/main.php:213
+msgid "Hello Message"
+msgstr "پیام خوش‌آمدگویی"
+
+#: nuxy_settings/main.php:215 includes/BFTOW_Telegram.php:47
+msgid "Hello! Welcome to WooCommerce Telegram Store"
+msgstr "سلام! به فروشگاه تلگرامی ووکامرس خوش آمدید"
+
+#: nuxy_settings/main.php:127
+msgid "Hide cart button"
+msgstr "پنهان‌سازی دکمه سبد خرید"
+
+#. Author URI of the plugin
+msgid "https://wp-guruteam.com/"
+msgstr "https://wp-guruteam.com/"
+
+#. URI of the plugin
+msgid "https://wp-guruteam.com/woocommerce-telegram/"
+msgstr ""
+
+#: nuxy_settings/main.php:295 includes/BFTOW_Telegram.php:52
+msgid "Information updated"
+msgstr "اطلاعات بروزرسانی شدند"
+
+#: nuxy_settings/main.php:293
+msgid "Information updated message"
+msgstr "پیام اطلاعات بروزرسانی شدند"
+
+#: nuxy_settings/main.php:110
+msgid "Interface"
+msgstr "رابط"
+
+#: nuxy_settings/main.php:315
+msgid "Keyboard"
+msgstr "صفحه کلید"
+
+#: nuxy_settings/main.php:400
+msgid "Main menu"
+msgstr "منو اصلی"
+
+#: nuxy_settings/main.php:397
+msgid "Main menu button text"
+msgstr "متن دکمه منو اصلی"
+
+#: nuxy_settings/main.php:333
+msgid "Message"
+msgstr "پیام"
+
+#: nuxy_settings/main.php:427
+msgid "Message after search button"
+msgstr "پیام بعد از دکمه جستجو"
+
+#: nuxy_settings/main.php:337
+msgid "Message Image"
+msgstr "تصویر پیام"
+
+#: nuxy_settings/main.php:205
+msgid "Messages"
+msgstr "پیام"
+
+#: nuxy_settings/main.php:376
+msgid "My account"
+msgstr "حساب کاربری من"
+
+#: nuxy_settings/main.php:373
+msgid "My account button text"
+msgstr "متن حساب کاربری من"
+
+#: nuxy_settings/main.php:415
+msgid "My account message"
+msgstr "پیام حساب کاربری من"
+
+#: nuxy_settings/main.php:418
+msgid "My account:"
+msgstr "حساب کاربری من:"
+
+#: nuxy_settings/main.php:382
+msgid "My orders"
+msgstr "سفارشات من"
+
+#: includes/BFTOW_Orders.php:329
+msgid "New Order:"
+msgstr "سفارش جدید:"
+
+#: nuxy_settings/main.php:406
+msgid "No orders found"
+msgstr "سفارشی یافت نشد"
+
+#: nuxy_settings/main.php:403
+msgid "No orders found message"
+msgstr "پیام سفارشی یافت نشد"
+
+#: nuxy_settings/main.php:433
+msgid "Not found message"
+msgstr "پیام یافت نشد"
+
+#: nuxy_settings/main.php:305
+msgid "Notification Settings"
+msgstr "تنظیمات اعلانات"
+
+#: nuxy_settings/main.php:168
+msgid "Notify when user is created"
+msgstr "اعلان در هنگامی که کاربر ایجاد شد"
+
+#: nuxy_settings/main.php:329
+msgid "Optional. Enter telegram command. e.g. /faq"
+msgstr "اختیاری. دستور تلگرام را وارد نمایید. بعنوان مثال /faq"
+
+#: includes/BFTOW_Orders.php:331
+msgid "Order"
+msgstr "سفارش"
+
+#: includes/BFTOW_WooCommerce.php:179
+#, php-format
+msgid "Order #%s status changed to %s."
+msgstr "سفارش #%s وضعیت سفارش تغییر یافت به %s."
+
+#: nuxy_settings/main.php:379
+msgid "Order Button text"
+msgstr "متن دکمه سفارش"
+
+#: includes/BFTOW_Orders.php:335
+msgid "Order Date:"
+msgstr "تاریخ سفارش:"
+
+#: includes/BFTOW_Orders.php:337
+msgid "Order Details"
+msgstr "جزئیات سفارش"
+
+#: includes/BFTOW_Orders.php:336
+msgid "Order Total:"
+msgstr "مجموع سفارش:"
+
+#: includes/BFTOW_Orders.php:334
+msgid "Payment Method:"
+msgstr "روش پرداخت:"
+
+#: includes/BFTOW_Orders.php:387
+msgid "Phone number:"
+msgstr "شماره تلفن:"
+
+#: includes/notices/install_woocommerce.php:3
+msgid "Please install Woocommerce in order to Telegram addon work as intended"
+msgstr "نصب ووکامرس نیاز می‌باشد، بدون ووکامرس امکان ارائه خدمت وجود ندارد"
+
+#: nuxy_settings/main.php:280 includes/BFTOW_Telegram.php:57
+msgid "Price:"
+msgstr "قیمت:"
+
+#: nuxy_settings/main.php:285 includes/BFTOW_Telegram.php:59
+#: includes/BFTOW_Telegram.php:925
+msgid "Proceed to Checkout"
+msgstr "رفتن برای تسویه حساب"
+
+#: includes/BFTOW_Telegram.php:187
+msgid "Product not Added"
+msgstr "محصول اضافه نشد"
+
+#: nuxy_settings/main.php:230
+msgid "Product not added"
+msgstr "متن محصول اضافه نشد"
+
+#: nuxy_settings/main.php:228
+msgid "Product not added text"
+msgstr "متن محصول اضافه نشد"
+
+#: nuxy_settings/main.php:436
+msgid "Products not found"
+msgstr "محصول پیدا نشد"
+
+#: nuxy_settings/main.php:97
+msgid "Proxy server"
+msgstr "سرور پراکسی"
+
+#: includes/notices/settings.php:52
+msgid "Read docs"
+msgstr "مطالعه اسناد"
+
+#: nuxy_settings/main.php:290 includes/BFTOW_Orders.php:160
+#: includes/BFTOW_Orders.php:221
+msgid "Remove"
+msgstr "حذف"
+
+#: nuxy_settings/main.php:117
+msgid "Request location"
+msgstr "درخواست مکان"
+
+#: nuxy_settings/main.php:113
+msgid "Request phone number"
+msgstr "درخواست شماره تلفن"
+
+#: includes/scripts_styles.php:11
+msgid "REST API Link Activated"
+msgstr "لینک REST API فعال گردید"
+
+#: includes/scripts_styles.php:12
+msgid "REST API Link Deactivated"
+msgstr "لینک REST API غیرفعال گردید"
+
+#: nuxy_settings/main.php:94
+msgid "Save BOT Token first"
+msgstr "اول توکن ربات را ذخیره نمایید"
+
+#: nuxy_settings/main.php:424
+msgid "Search"
+msgstr "جستجو"
+
+#: nuxy_settings/main.php:421
+msgid "Search Button Text"
+msgstr "متن دکمه جستجو"
+
+#: nuxy_settings/main.php:439
+msgid "Search result button text"
+msgstr "متن دکمه نتیجه جستجو"
+
+#: nuxy_settings/main.php:190
+msgid "Select category"
+msgstr "انتخاب دسته‌بندی"
+
+#: nuxy_settings/main.php:218
+msgid "Select category text"
+msgstr "انتخاب متن دسته‌بندی"
+
+#: nuxy_settings/main.php:220 includes/BFTOW_Telegram.php:408
+msgid "Select category:"
+msgstr "انتخاب دسته‌بندی:"
+
+#: includes/BFTOW_Telegram.php:776
+msgid "Select variation steps: "
+msgstr "مراحل تغییر را انتخاب نمایید:"
+
+#: includes/BFTOW_Telegram.php:60
+msgid "Send Location"
+msgstr "ارسال مکان"
+
+#: nuxy_settings/main.php:394
+msgid "Send location"
+msgstr "ارسال مکان"
+
+#: nuxy_settings/main.php:391
+msgid "Send location button text"
+msgstr "متن دکمه ارسال مکان"
+
+#: nuxy_settings/main.php:89
+msgid ""
+"Set if you want user to get back to Telegram after successful checkout. "
+"(Without \"@\")"
+msgstr ""
+"اگر شما می‌خواهید که کاربر پس از تسویه حساب (پرداخت) موفق دوباره به تلگرام "
+"بازگردد، اینجا را تنظیم نمایید. (بدون \"@\")"
+
+#: nuxy_settings/main.php:208
+msgid "Share number Message"
+msgstr "به اشتراک‌گذاری شماره پیام"
+
+#: nuxy_settings/main.php:210 includes/BFTOW_Telegram.php:939
+#: includes/BFTOW_Telegram.php:1026
+msgid "Share phone number"
+msgstr "به اشتراک‌گذاری شماره تلفن"
+
+#: nuxy_settings/main.php:260 includes/BFTOW_Telegram.php:45
+#: includes/BFTOW_Telegram.php:910
+msgid "Shop"
+msgstr "فروشگاه"
+
+#: nuxy_settings/main.php:132
+msgid "Show checkout button"
+msgstr "نمایش دکمه تسویه حساب (پرداخت)"
+
+#: nuxy_settings/main.php:153
+msgid "Show only parent categories"
+msgstr "فقط دسته‌بندی‌های والد نمایش داده شوند"
+
+#: nuxy_settings/main.php:145
+msgid "Show out of stock products"
+msgstr ""
+
+#: nuxy_settings/main.php:141
+msgid "Show product short description"
+msgstr "نمایش توضیح کوتاه محصول"
+
+#: nuxy_settings/main.php:442
+msgid "Show results"
+msgstr "نمایش نتایج"
+
+#: nuxy_settings/main.php:149
+msgid "Show SKU"
+msgstr "نمایش شناسه محصول"
+
+#: nuxy_settings/main.php:300 includes/BFTOW_Products.php:11
+#: includes/BFTOW_Telegram.php:56
+msgid "SKU"
+msgstr "شناسه محصول"
+
+#: nuxy_settings/main.php:298
+msgid "SKU Message"
+msgstr "پیام شناسه محصول"
+
+#: includes/notices/settings.php:47
+msgid "Take me to settings"
+msgstr "میان‌بر رفتن به تنظیمات "
+
+#: nuxy_settings/main.php:87
+msgid "Telegram Bot Name"
+msgstr "نام ربات تلگرام"
+
+#: nuxy_settings/main.php:68
+msgid "Telegram Bot Settings"
+msgstr "تنظیمات ربات تلگرام"
+
+#: nuxy_settings/main.php:83
+msgid "Telegram Bot Token"
+msgstr "توکن ربات تلگرام"
+
+#: nuxy_settings/main.php:263
+msgid "Title Button Cart"
+msgstr "عنوان دکمه سبد خرید"
+
+#: nuxy_settings/main.php:268
+msgid "Title Button Checkout"
+msgstr "عنوان دکمه تسویه حساب (پرداخت)"
+
+#: nuxy_settings/main.php:283
+msgid "Title Button Proceed To Checkout"
+msgstr "عنوان دکمه ادامه تسویه حساب (پرداخت)"
+
+#: nuxy_settings/main.php:288
+msgid "Title Button Remove"
+msgstr "عنوان دکمه حذف"
+
+#: nuxy_settings/main.php:258
+msgid "Title Button Shop"
+msgstr "عنوان دکمه فروشگاه"
+
+#: nuxy_settings/main.php:273
+msgid "Total button text"
+msgstr "متن دکمه مجموع"
+
+#: nuxy_settings/main.php:275 includes/BFTOW_Orders.php:257
+msgid "Total:"
+msgstr "مجموع:"
+
+#: nuxy_settings/main.php:388
+msgid "Update phone"
+msgstr "بروزرسانی تلفن"
+
+#: nuxy_settings/main.php:385
+msgid "Update phone button text"
+msgstr "متن دکمه بروزرسانی تلفن"
+
+#: includes/BFTOW_Orders.php:390
+msgid "User email:"
+msgstr "ایمیل کاربر:"
+
+#: includes/notices/settings.php:43
+msgid "You have not configured the Bot for Telegram on WooCommerce plugin yet"
+msgstr ""
+"شما هنوز افزونه ربات فروشگاهی تلگرام بر پایه ووکامرس را پیکربندی نکرده‌اید "
+"(در پیشخوان وردپرس)"
+
+#: nuxy_settings/main.php:235 includes/BFTOW_Orders.php:298
+msgid "Your cart"
+msgstr "سبد خرید شما"
+
+#: nuxy_settings/main.php:233
+msgid "Your cart text"
+msgstr "متن سبد خرید شما"
+
+#: nuxy_settings/main.php:412
+msgid "Your orders"
+msgstr "سفارشات شما"
+
+#: nuxy_settings/main.php:409
+msgid "Your orders message"
+msgstr "پیام سفارشات شما"
+
+#: includes/notices/settings.php:58
+msgid "YouTube tutorial"
+msgstr "آموزش در یوتیوب"
